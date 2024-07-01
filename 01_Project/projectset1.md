@@ -82,7 +82,7 @@ form.addEventListener('submit', function (e) {
 ```
 ## project 3
 # Live Clock
-```
+```javascript
 <!DOCTYPE html>
 <html lang="en">
 <head>
